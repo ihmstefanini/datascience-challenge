@@ -92,7 +92,7 @@ Lá você já encontrará toda a explicação mínima necessária para executar 
 Busque trazer **diferenciais** para o seu desafio:
 
 1. Formular suas hipóteses de exploração dos dados e documentá-las (livre escolha de onde achar melhor)
-2. Descrever o que está vendo nas séries temporais. Há tendência/sazonalidade? Tem muito ou pouco ruído? E os outliers?
+2. Fazer a análise descritiva das séries temporais
 3. Descrever minimamente por que está técnica A ou B para explorar os dados. Exemplo, usei o PCA porque acredito ser interessante por causa de xxxx e esperava ver yyyyy
 4. Descreva porquê e como escolheu as *features*
 5. Comente porque está aplicando o modelo/algoritmo x e como está representando os dados para o modelo.
